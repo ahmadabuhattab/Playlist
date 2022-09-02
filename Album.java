@@ -45,8 +45,3 @@ public class Album {
     }
 
 }
-
-//addToPlayList(), has two parameters of type String (title of song) and LinkedList (the playlist)
-// that holds objects of type Song, and returns a boolean. Returns true if it exists and it was added successfully using the name of the song,
-// or false otherwise.
-//
